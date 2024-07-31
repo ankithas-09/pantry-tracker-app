@@ -85,9 +85,9 @@ const About = () => (
             fontSize: "1rem",
             p: "12px 24px",
             boxShadow: "0 6px 20px rgba(0, 0, 0, 0.4)",
-            bgcolor: "#81d4fa",
+            bgcolor: "#FF6347",
             "&:hover": {
-              bgcolor: "#4fc3f7",
+              bgcolor: "#FF6347",
               boxShadow: "0 8px 25px rgba(0, 0, 0, 0.5)",
             },
             textAlign: "center",
