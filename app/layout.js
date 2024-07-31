@@ -7,7 +7,7 @@ import "./globals.css";
 import "animate.css";
 
 export const metadata = {
-  title: "PantryPilot",
+  title: "Pantry Tracker",
   description: "A pantry app",
   icons: {
     favicon: "/favicon.ico",
